@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hola, soy Diego Quintanilla
 
-<!--
-**diegoQuintanilla/diegoQuintanilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Líder de correspondencia en transición a IT  
+💻 Desarrollador Web en formación  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías
+- JavaScript
+- HTML
+- CSS
+- React
+
+---
+
+## 📌 Sobre mí
+Actualmente estoy enfocado en desarrollar soluciones web, aplicando lógica, organización y mejora continua adquiridas en mi experiencia laboral.
+
+---
+
+## 🔗 Proyectos destacados
+- 📦 App de gestión de tareas
+- 🌐 Landing page responsive
+- ⚙️ Proyecto con consumo de API
+
+---
+
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/diego-quintanilla-dev/
