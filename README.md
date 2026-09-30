@@ -1,7 +1,6 @@
 # 👋 Hola, soy Diego Quintanilla
 
-💼 Líder de correspondencia en transición a IT  
-💻 Desarrollador Web en formación  
+💻 Desarrollador Web FrontEnd React
 
 ---
 
@@ -14,14 +13,14 @@
 ---
 
 ## 📌 Sobre mí
-Actualmente estoy enfocado en desarrollar soluciones web, aplicando lógica, organización y mejora continua adquiridas en mi experiencia laboral.
+Actualmente estoy enfocado en desarrollar soluciones web, aplicando lógica, organización y mejora continua adquiridas en mi experiencia laboral. Estoy aplicando cada tecnologia que voy aprendiendo a mi negocio digital DSM Studio digital que nacio como iniciativa para adquirir experiencia.
 
 ---
 
 ## 🔗 Proyectos destacados
-- 📦 App de gestión de tareas
-- 🌐 Landing page responsive
-- ⚙️ Proyecto con consumo de API
+- 📦 Sitio Web para noticias del Rock "La bitacora del Ruido" integrando un CMS para carga de contenido por parte del cliente.
+- 🌐 Landing page responsive de un profesional de la Oratoria, generando captacion de Clientes.
+- ⚙️ E-commerce para tienda de Ropa integrado con base de datos. 
 
 ---
 
